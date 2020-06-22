@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/quickordersv2/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/quickordersv2/vendor/classpreloader/classpreloader" />
@@ -103,7 +106,7 @@
       <updated>1589335087614</updated>
       <workItem from="1589335100413" duration="130000" />
       <workItem from="1589836941770" duration="1773000" />
-      <workItem from="1592865215816" duration="979000" />
+      <workItem from="1592865215816" duration="1377000" />
     </task>
     <servers />
   </component>
